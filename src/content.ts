@@ -1,0 +1,37 @@
+export const content = {
+  brand: 'Web For Trades',
+  domain: 'webfortrades.com',
+  serviceType: 'Websites for trades businesses',
+  title: 'Web For Trades — A Website Built for Trades That Wins Work',
+  description: 'A professional website built for trades — live fast, ranks locally, and wins you work. Wired to Jobber, ServiceTitan, and Housecall Pro. Join early access.',
+  navCta: 'Join the waitlist',
+  badge: 'Early access · websites for trades',
+  h1a: 'A website built for trades — ', h1grad: 'that actually wins work', h1b: '.',
+  sub: 'Not a brochure that sits there. A fast, modern site built for plumbers, electricians, HVAC and roofers — ranks in your area, takes bookings, and connects to the software you already run.',
+  trust: 'Live in days, not months. No tech headaches.',
+  mock: ['globe', 'search', 'phone'],
+  mockStat: 'Your new site',
+  featHead: {
+    eyebrow: 'What you get',
+    title: 'A site that does the work.',
+    sub: 'Everything a trade business needs online, done properly — and nothing you don\'t.',
+  },
+  features: [
+    { icon: 'zap', title: 'Live in days', body: 'We build it for you and have it live fast — no months-long web project, no back-and-forth, no half-finished site.' },
+    { icon: 'search', title: 'Ranks where you work', body: 'Built for local search so customers in your service area find you first — not the competition three towns over.' },
+    { icon: 'phone', title: 'Turns clicks into jobs', body: 'Click-to-call, online booking, and clear quotes turn the people who find you into booked work.' },
+  ],
+  intsHead: {
+    title: 'Connected to your trade software',
+    sub: 'Your site isn\'t an island. It connects to the field-service software you already run, so bookings and customer details land where your team works.',
+  },
+  ints: [
+    { brand: 'Jobber', body: 'Online bookings and enquiries flow straight into Jobber, ready to schedule.' },
+    { brand: 'ServiceTitan', body: 'Jobs and customers sync with ServiceTitan — no double data entry.' },
+    { brand: 'Housecall Pro', body: 'Your site and Housecall Pro stay in step, one source of truth for jobs.' },
+  ],
+  ctaTitle: 'Get a site built for trades.',
+  ctaSub: 'We\'re building Web For Trades with a small group of real trade businesses. Join the waitlist and we\'ll get you on early.',
+  ctaList: ['No pricing commitment', 'Live in days when we open', 'Connects to your existing tools'],
+  footerTag: 'Websites built for trades that win work.',
+};

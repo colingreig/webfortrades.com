@@ -1,0 +1,27 @@
+# Web For Trades
+
+Website and local SEO service built specifically for trade businesses.
+
+## Who it is for
+
+Plumbers, electricians, HVAC technicians, and roofers who need a professional web presence that generates real inbound leads.
+
+## What it does
+
+Builds fast, mobile-ready websites optimized for local search, then connects them to the field service software the business already runs.
+
+## Integrations
+
+Jobber, ServiceTitan, Housecall Pro.
+
+## Primary keyword
+
+website for trades
+
+## Status
+
+Early access — waitlist open. No pricing commitment required to join.
+
+## URL
+
+https://webfortrades.com
